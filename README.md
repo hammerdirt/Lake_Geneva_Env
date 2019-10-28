@@ -14,7 +14,7 @@ in the environment and count it (that would solve the problem though). Extrapola
 to obtain a macro-view of the problem. But the margin of error on these type of calculations makes them unsuitable for 
 identifying trends on a local or regional level.
 
-![Image of Yaktocat](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/topTenBarChartAll.svg)
+![Image of Yak](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/topTenBarChartAll.svg)
 
 If sampling all the trash is not possibile, what if we sample as much as possible and see what that looks like? The following questions could be answered:
 
