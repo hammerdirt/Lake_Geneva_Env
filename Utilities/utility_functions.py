@@ -78,8 +78,6 @@ def putTheDataToLocal(end_points, here):
     """
     the_dict = getTheData(end_points)
     writeTheData(the_dict, here)
-
-
 def jsonFileGet(this_path):
     """
     Reads the local JSON in
