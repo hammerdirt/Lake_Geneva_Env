@@ -26,8 +26,9 @@ If sampling all the trash is not possibile, what if we sample as much as possibl
 
 
 ![Image of Yaktocat](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/boxPlotAllData.svg)
-
-
+![Image of Yaktocat](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/histoGramAllData.svg)
+![Image of Yaktocat](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/YoYdistLog.svg)
+![Image of Yaktocat](https://github.com/hammerdirt/Lake_Geneva_Env/blob/master/Charts/manuscript/YoYdistNormed.svg)	
 __These series of notebooks will try to answer those questions.__
 
 ### Contributing
