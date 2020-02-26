@@ -1,0 +1,31 @@
+,city,city_slug,country,is_2020,latitude,location,longitude,post,project_id,slug,water,water_name,water_name_slug
+0,La Tour de Peilz,la-tour-de-peilz,CH,False,46.44721600,Anarchy Beach,6.85961200,1814,MCBP,anarchy-beach,l,Lac Léman,lac-leman
+1,Vevey,vevey,CH,False,46.46209900,Arabie,6.83497200,1800,MCBP,arabie,l,Lac Léman,lac-leman
+3,La Tour de Peilz,la-tour-de-peilz,CH,False,46.45050680,Bain des Dames,6.85809180,1814,MCBP,bain-des-dames,l,Lac Léman,lac-leman
+4,Montreux,montreux,CH,False,46.43978700,Baye de Clarens,6.88890300,1815,MCBP,baye-de-clarens,l,Lac Léman,lac-leman
+5,Montreux,montreux,CH,False,46.43096200,Baye de Montreux D,6.90867300,1820,MCBP,baye-de-montreux-d,l,Lac Léman,lac-leman
+6,Montreux,montreux,CH,False,46.43083400,Baye de Montreux G,6.90877800,1820,MCBP,baye-de-montreux-g,l,Lac Léman,lac-leman
+7,Tolochenaz,tolochenaz,CH,False,46.49102970,Boiron,6.48016180,1131,MCBP,boiron,l,Lac Léman,lac-leman
+8,Saint Gingolph,saint-gingolph,CH,False,46.38774600,Grand Clos,6.84368600,1898,MCBP,grand-clos,l,Lac Léman,lac-leman
+9,Genève,geneve,CH,False,46.22590880,Jardin Botanique,6.14935720,1202,MCBP,jardin-botanique,l,Lac Léman,lac-leman
+10,Morges,morges,CH,False,46.50406300,La Morges,6.49409900,1110,MCBP,la-morges,l,Lac Léman,lac-leman
+11,La Tour de Peilz,la-tour-de-peilz,CH,False,46.45038920,Lac Léman Hammerdirt,6.85823420,1814,SLR,lac-leman-hammerdirt,l,Lac Léman,lac-leman
+12,Gland,gland,CH,False,46.40286930,lacléman_gland_kubela,6.28193580,1196,SLR,lacleman_gland_kubela,l,Lac Léman,lac-leman
+13,Gland,gland,CH,False,46.40281060,Lacléman_Gland_LecoanetS,6.28195860,1196,SLR,lacleman_gland_lecoanets,l,Lac Léman,lac-leman
+14,Lausanne,lausanne,CH,False,46.51831780,lacléman_vidy_santie,6.58960780,1007,SLR,lacleman_vidy_santie,l,Lac Léman,lac-leman
+15,Montreux,montreux,CH,False,46.43972700,Le Pierrier,6.88896800,1815,MCBP,le-pierrier,l,Lac Léman,lac-leman
+16,La Tour de Peilz,la-tour-de-peilz,CH,False,46.45224500,Le Port,6.85518000,1814,MCBP,le-port,l,Lac Léman,lac-leman
+17,La Tour de Peilz,la-tour-de-peilz,CH,False,46.44629600,Maladaire,6.87696000,1814,MCBP,maladaire,l,Lac Léman,lac-leman
+18,La Tour de Peilz,la-tour-de-peilz,CH,False,46.45668200,Oyonne,6.85226200,1814,MCBP,oyonne,l,Lac Léman,lac-leman
+19,Saint Sulpice,saint-sulpice,CH,False,46.51521500,Parc des Pierrettes,6.57553100,1025,EPFL,parc-des-pierrettes,l,Lac Léman,lac-leman
+20,Montreux,montreux,CH,False,46.43956010,Pierrier sud,6.89100010,1815,MCBP,pierrier-sud,l,Lac Léman,lac-leman
+21,Saint Sulpice,saint-sulpice,CH,False,46.51816900,Plage de Dorigny,6.58331900,1025,MCBP,plage-de-dorigny,l,Lac Léman,lac-leman
+22,Saint Sulpice,saint-sulpice,CH,False,46.51326500,Plage de St Sulpice,6.57097700,1025,EPFL,plage-de-st-sulpice,l,Lac Léman,lac-leman
+23,Préverenges,preverenges,CH,False,46.51269000,Préverenges,6.52765700,1028,PC,preverenges,l,Lac Léman,lac-leman
+24,Vevey,vevey,CH,False,46.46015600,Quai Maria Belgia,6.83671800,1800,MCBP,quai-maria-belgia,l,Lac Léman,lac-leman
+27,Thonon les Bains,thonon-les-bains,FR,False,46.36533580,Thonnon les Bains,6.44699340,74200,MCBP,thonnon-les-bains,l,Lac Léman,lac-leman
+28,Saint Sulpice,saint-sulpice,CH,False,46.51825600,Tiger duck beach,6.58254600,1025,EPFL,tiger-duck-beach,l,Lac Léman,lac-leman
+29,Versoix,versoix,CH,False,46.28919400,Versoix,6.17056930,1290,MCBP,versoix,l,Lac Léman,lac-leman
+30,Vevey,vevey,CH,False,46.46102200,Veveyse,6.83498300,1800,MCBP,veveyse,l,Lac Léman,lac-leman
+31,Lausanne,lausanne,CH,False,46.51471550,Vidy,6.59858840,1007,MCBP,vidy,l,Lac Léman,lac-leman
+32,Genève,geneve,CH,False,46.22235000,Villa Barton,6.15250000,1202,MCBP,villa-barton,l,Lac Léman,lac-leman
